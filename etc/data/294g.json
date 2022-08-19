@@ -1,0 +1,49 @@
+{
+"order_uid": "294g",
+"track_number": "DJBNISD",
+"entry": "WBIL",
+"delivery": {
+    "name": "Petr Petrov",
+    "phone": "+972351680",
+    "zip": "2639809",
+    "city": "Mosc",
+    "address": "Ploshad Mira 15",
+    "region": "Ofic",
+    "email": "test@gmail.com"
+},
+"payment": {
+    "transaction": "b563dkjgn9edrgnt",
+    "request_id": "",
+    "currency": "USD",
+    "provider": "wbpay",
+    "amount": 1817,
+    "payment_dt": 161568727,
+    "bank": "alpha",
+    "delivery_cost": 1500,
+    "goods_total": 317,
+    "custom_fee": 0
+},
+"items": [
+    {
+    "chrt_id": 9934930,
+    "track_number": "DJBNISD",
+    "price": 453,
+    "rid": "ab4219035dfb53est",
+    "name": "Mascaras",
+    "sale": 30,
+    "size": "0",
+    "total_price": 317,
+    "nm_id": 2335492,
+    "brand": "Vivien",
+    "status": 303
+    }
+],
+"locale": "en",
+"internal_signature": "",
+"customer_id": "test",
+"delivery_service": "meest",
+"shardkey": "9",
+"sm_id": 99,
+"date_created": "2021-11-26T06:22:19Z",
+"oof_shard": "1"
+}
